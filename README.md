@@ -4,7 +4,7 @@
 
 ¡Hola! Soy Luis Francisco, un desarrollador back-end siempre en busca de aprender nuevas tecnologías y crear proyectos interesantes que me saquen de mi zona de confort.
 
-- 💻 Conocimientos en HTML, CSS, Python, PHP, JavaScript, MySQL.
+- 💻 Conocimientos en HTML, CSS, Python, PHP, JavaScript, MySQL, FastAPI, Flask, Django.
 - 📚 Siempre aprendiendo y dispuesto a enfrentar nuevos desafíos.
 - 📧 Puedes contactarme en luis-francisco12@outlook.es.
 
@@ -16,6 +16,9 @@
 [![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 ## Perfil de LinkedIn
 
