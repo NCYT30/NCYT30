@@ -10,12 +10,12 @@
 
 ## Lenguajes
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![Python](https://img.shields.io/badge/-Python-green)
-![PHP](https://img.shields.io/badge/-PHP-purple)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![MySQL](https://img.shields.io/badge/-MySQL-blue)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ## Perfil de LinkedIn
 
