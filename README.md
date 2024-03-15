@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola, soy Luis Francisco! 👋
 
-<!--
-**NCYT30/NCYT30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy desarrollador back-end
 
-Here are some ideas to get you started:
+¡Hola! Soy Luis Francisco, un desarrollador back-end siempre en busca de aprender nuevas tecnologías y crear proyectos interesantes que me saquen de mi zona de confort.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Conocimientos en HTML, CSS, Python, PHP, JavaScript, MySQL.
+- 📚 Siempre aprendiendo y dispuesto a enfrentar nuevos desafíos.
+- 📧 Puedes contactarme en luis-francisco12@outlook.es.
+
+## Lenguajes
+
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![Python](https://img.shields.io/badge/-Python-green)
+![PHP](https://img.shields.io/badge/-PHP-purple)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+
+## Perfil de LinkedIn
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-francisco-alegria-segura)
